@@ -1,0 +1,37 @@
+#homepageBody {
+   display:flex;
+   flex-direction: column; 
+   align-items: center; 
+   min-height: 100vh; 
+   justify-content: space-between; 
+}
+#redirectBody {
+   display:flex;
+   flex-direction: column; 
+   align-items: center; 
+   min-height: 100vh; 
+   justify-content: space-between; 
+}
+#sec1 {
+   height:80px;
+   display:flex;
+   align-items:flex-end;
+   color: #A6B078;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight:bold;
+   font-size: 1.875em;
+}
+#sec2 {
+   height:20px;
+   display:flex;
+   align-items: center;
+   color: #B08278;
+   font-family: Arial, Helvetica, sans-serif;
+   font-weight:bold;
+   font-size: 1.875em;
+}
+#gif {
+   display:flex;
+   align-items:initial;
+   
+}
